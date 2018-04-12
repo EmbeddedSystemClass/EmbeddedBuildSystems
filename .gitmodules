@@ -1,3 +1,6 @@
 [submodule "antares"]
 	path = antares
 	url = git@github.com:nekromant/antares.git
+[submodule "REM"]
+	path = REM
+	url = git@github.com:franzflasch/REM.git
