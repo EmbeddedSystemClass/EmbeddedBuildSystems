@@ -4,3 +4,6 @@
 [submodule "REM"]
 	path = REM
 	url = git@github.com:franzflasch/REM.git
+[submodule "OE-Lite/bakery"]
+	path = OE-Lite/bakery
+	url = git@github.com:oe-lite/bakery.git
