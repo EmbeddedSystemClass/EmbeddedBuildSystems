@@ -7,3 +7,6 @@
 [submodule "OE-Lite/bakery"]
 	path = OE-Lite/bakery
 	url = git@github.com:oe-lite/bakery.git
+[submodule "toybox"]
+	path = toybox
+	url = https://github.com/landley/toybox.git
