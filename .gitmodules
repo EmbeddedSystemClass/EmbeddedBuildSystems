@@ -10,3 +10,6 @@
 [submodule "toybox"]
 	path = toybox
 	url = https://github.com/landley/toybox.git
+[submodule "elbe"]
+	path = elbe
+	url = https://github.com/Linutronix/elbe.git
